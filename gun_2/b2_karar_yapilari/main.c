@@ -46,5 +46,6 @@ int main(void) {
         default: printf("sayi buradaki degerlerden baska bir deger\n");
     }
     // case'ler yazilirken break konmazsa gecerli case'ten sonraki tum case'ler calisir.
+    return 0;
 
 }
