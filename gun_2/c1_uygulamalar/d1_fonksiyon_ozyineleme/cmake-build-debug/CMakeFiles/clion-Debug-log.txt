@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\ramaz\OneDrive\Masaüstü\C_egitimi\c_egitimi\gun_2\c1_uygulamalar\d1_fonksiyon_ozyineleme Select CMakeLists.txt
